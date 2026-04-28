@@ -1,0 +1,1 @@
+This project is a responsive NGO website designed to create awareness and provide information about the organization, its mission, and activities. The goal of this project is to build a clean, user-friendly interface that improves accessibility and engagement.
